@@ -1,0 +1,108 @@
+body {font-family: American typewriter;
+align-content: flex-end;
+padding: 100px;
+text-align: center;
+background-color: lightblue;
+color: white;
+font-size: 16px;
+}
+
+ol {
+  text-align: left;
+    width: 40%;
+    margin: auto;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border:20px solid pink;
+    border-radius: 20px;
+}
+
+
+button1 {
+background-color: pink;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+  padding: 10px;
+  border-radius: 12px;
+    color: white;
+    border: 6px solid white;
+    font-size: 22px;
+  font-family: American Typewriter;
+  float: right;
+}
+
+button2 {
+    background-color: pink;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+  padding: 10px;
+  border-radius: 12px;
+    color: white;
+    border: 6px solid white;
+    font-size: 22px;
+  font-family: American Typewriter;
+  float: left;
+}
+
+
+a {
+      color: white;
+    }
+
+    h1 {
+      color: white;
+      padding: 50px;
+      font-size: 70px;
+      text-align: center;
+      border:130px solid pink;
+      border-radius: 30px;
+      font-weight: bold;
+
+    }
+
+    h2 {
+      padding: 50px;
+      text-align:center;
+    text-decoration-line: underline;}
+
+    h3 {padding: 10px;
+    }
+
+    h4{
+  font-style: italic;
+  padding: 10px;
+    }
+
+ul{
+  padding:20px;
+}
+
+.fa {
+align: right;
+    padding: 10px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+
+}
+ .fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-instagram {background: #3B5998;
+color: white;
+}
