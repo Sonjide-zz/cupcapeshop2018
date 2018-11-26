@@ -7,7 +7,7 @@
 
 .img-slide {
     width: 100%;
-    min-height: 50vw;
+    min-height: 10vw;
     z-index: 5;
     overflow-y: hidden;
 }
