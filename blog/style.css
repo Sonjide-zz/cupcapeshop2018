@@ -23,7 +23,7 @@ img {
 }
 
 
-button1 {
+button.btn1 {
 background-color: pink;
     color: white;
     text-align: center;
@@ -37,7 +37,7 @@ background-color: pink;
   float: right;
 }
 
-button2 {
+button.btn2 {
     background-color: pink;
     color: white;
     text-align: center;
